@@ -10,7 +10,7 @@
 
 ### 💫 About Me
 
-- 🎓 I'm currently studying for a **Bachelor of Technology and Livelihood Education (BTLED)** at **Central Luzon State University (CLSU)**.
+- 🎓 I'm currently studying for a **Bachelor of Science in Information Technology (BSIT)** at **Central Luzon State University (CLSU)**.
 - 💻 I hold a **National Certificate (NC II) in Computer Systems Servicing**, blending software development with solid hardware and network infrastructure knowledge.
 - 🔭 I’m currently working on full-stack projects like **WECAIMS** (Web-Based Enrollment and Comprehensive Academic Information Management System) and exploring aesthetic, minimalist UI concepts like glassmorphism.
 - 🌱 I’m constantly refining my skills in the **Laravel framework** and responsive web design.
