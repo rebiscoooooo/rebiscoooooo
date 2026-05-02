@@ -11,10 +11,15 @@
 ### 💫 About Me
 
 - 🎓 I'm currently studying for a **Bachelor of Science in Information Technology (BSIT)** at **Central Luzon State University (CLSU)**.
+  
 - 💻 I hold a **National Certificate (NC II) in Computer Systems Servicing**, blending software development with solid hardware and network infrastructure knowledge.
+  
 - 🔭 I’m currently working on full-stack projects like **WECAIMS** (Web-Based Enrollment and Comprehensive Academic Information Management System) and exploring aesthetic, minimalist UI concepts like glassmorphism.
+  
 - 🌱 I’m constantly refining my skills in the **Laravel framework** and responsive web design.
+  
 - 🎸 **Fun Fact:** When I'm away from my keyboard, you can usually find me strumming my guitar to some 21st-century OPM (always in the mood for Up Dharma Down or Ben&Ben!).
+
 
 ---
 
@@ -46,7 +51,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebiscoooooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
