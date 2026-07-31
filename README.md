@@ -10,7 +10,7 @@
 
 ### 💫 About Me
 
-- 🎓 I'm currently studying for a **Bachelor of Science in Information Technology (BSIT)** at **Central Luzon State University (CLSU)**.
+- 🎓 I'm currently studying **Bachelor of Science in Information Technology (BSIT)** in **Central Luzon State University (CLSU)**.
   
 - 💻 I hold a **National Certificate (NC II) in Computer Systems Servicing**, blending software development with solid hardware and network infrastructure knowledge.
   
@@ -18,7 +18,7 @@
   
 - 🌱 I’m constantly refining my skills in the **Laravel framework** and responsive web design.
   
-- 🎸 **Fun Fact:** When I'm away from my keyboard, you can usually find me strumming my guitar to some 21st-century OPM (always in the mood for Up Dharma Down or Ben&Ben!).
+- 🎸 **Fun Fact:** When I'm away from my keyboard, you can usually find me strumming my guitar to some 21st-century OPM (always in the mood for Eraserheads and Ben&Ben!).
 
 
 ---
