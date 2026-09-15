@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,git,github,figma,canva&theme=dark" alt="Jay-ar's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,git,github,figma,canva&theme=dark" alt="Jay-ar's Tech Stack" />
   </a>
 </div>
 
@@ -52,10 +52,5 @@
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebiscoooooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebiscoooooo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebiscoooooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
