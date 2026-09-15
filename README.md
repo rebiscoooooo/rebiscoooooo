@@ -1,7 +1,9 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=150&section=header&text=Jay-ar%20De%20Guzman&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=60&descAlign=60&fontColor=ffffff"/>
-
 <div align="center">
+
+<!-- Interactive Animated Name -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FF2D20&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Jay-ar+De+Guzman!+👋;Full-Stack+Web+Developer+💻;UI%2FUX+Designer+✨;Layout+Artist+🎨" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <i>Crafting minimalist, functional, and aesthetic digital experiences with a touch of glassmorphism. ✨</i>
@@ -9,9 +11,9 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your_profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" /></a>
+  <a href="mailto:jrsaturno66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/jay-ar-de-guzman-0b1151384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/jayarsaturnodeguzman1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 </div>
 
@@ -31,9 +33,9 @@
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Infinite Live Limitless** | Health & wellness branding platform featuring a lead capture system and admin dashboard. | `Laravel` `MySQL` `Bootstrap 5` |
-| **WECAIMS** | Web-Based Enrollment & Comprehensive Academic Information Management System for Villa Nati ES. | `PHP` `MySQL` `JS` |
+| **CED E-Services** | College of Education E-Services. | `Laravel` `React Inertia` `Tailwind CSS` `MySQL` |
 | **Kerwin Jay Dental Clinic** | Clinic management system featuring automated appointment booking and PDF receipt generation. | `Laravel` `Bootstrap 5` |
-| **Jay's Sari-Sari Store** | Custom Point-of-Sale (POS) and inventory management system for local retail. | `PHP` `MySQL` `CSS3` |
+| **1902 POS** | Custom Point-of-Sale (POS) and inventory management system for local retail. | `PHP` `MySQL` `CSS` |
 
 ---
 
@@ -57,8 +59,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebiscoooooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
-
-<br>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=100&section=footer"/>
