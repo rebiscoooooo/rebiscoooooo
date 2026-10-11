@@ -2,7 +2,7 @@
 
 <!-- Interactive Animated Name -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FF2D20&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Jay-ar+De+Guzman!+👋;Full-Stack+Web+Developer+💻;UI%2FUX+Designer+✨;Layout+Artist+🎨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=186049&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Jay-ar+Saturno+De+Guzman!;Full-Stack+Web+Developer+💻;" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -34,8 +34,7 @@
 | :--- | :--- | :--- |
 | **Infinite Live Limitless** | Health & wellness branding platform featuring a lead capture system and admin dashboard. | `Laravel` `MySQL` `Bootstrap 5` |
 | **CED E-Services** | College of Education E-Services. | `Laravel` `React Inertia` `Tailwind CSS` `MySQL` |
-| **Kerwin Jay Dental Clinic** | Clinic management system featuring automated appointment booking and PDF receipt generation. | `Laravel` `Bootstrap 5` |
-| **1902 POS** | Custom Point-of-Sale (POS) and inventory management system for local retail. | `PHP` `MySQL` `CSS` |
+| **1902 POS** | Custom Point-of-Sale (POS) and inventory management system for local retail. | `PHP` `MySQL` `CSS` `Bootstrap` |
 
 ---
 
@@ -43,7 +42,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,git,github,figma,canva&theme=dark" alt="Jay-ar's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,github,figma,canva&theme=dark" alt="Jay-ar's Tech Stack" />
   </a>
 </div>
 
