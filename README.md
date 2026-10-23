@@ -1,55 +1,43 @@
-<div align="center">
-
-<!-- Interactive Animated Name -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=186049&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Jay-ar+Saturno+De+Guzman!;Full-Stack+Web+Developer+💻;" alt="Typing SVG" />
-</a>
+<h1 align="center">Jay-ar Saturno De Guzman</h1>
+<p align="center">Full-Stack Web Developer</p>
 
 <p align="center">
-  <i>Crafting minimalist, functional, and aesthetic digital experiences with a touch of glassmorphism. ✨</i>
+  <img src="https://www.gitskins.com/api/section/galaxy?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo galaxy visual" />
 </p>
 
-<!-- Socials -->
+<p align="center"><b>8</b> public repositories, <b>0</b> stars, <b>134</b> contributions in the last year, a longest streak of <b>6</b> days and <b>3</b> followers.</p>
+
+## Brightest stars
+
 <p align="center">
-  <a href="mailto:jrsaturno66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/jay-ar-de-guzman-0b1151384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/jayarsaturnodeguzman1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <img src="https://www.gitskins.com/api/section/projects?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo projects visual" />
 </p>
-</div>
 
-<br>
+## Elements
 
-### 👨‍💻 The Developer Behind the Screen
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo stack visual" />
+</p>
 
-- 🎓 Studying **Bachelor of Science in Information Technology (BSIT)** at **Central Luzon State University (CLSU)**.
-- 💻 Holding a **National Certificate (NC II) in Computer Systems Servicing**, combining robust software logic with structured network infrastructure.
-- ⚙️ **Focus:** Architecting reliable backends using the **Laravel framework** and designing sleek, user-centric frontends.
-- 🎸 **Vibe Check:** When the code is compiling, I'm likely strumming my guitar to Up Dharma Down, Ben&Ben, or Eraserheads.
+## Transmission
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo social visual" />
+</p>
 
-### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/rebiscoooooo">GitHub</a> · 
+  <a href="https://www.linkedin.com/in/jay-ar-de-guzman-0b1151384/">LinkedIn</a> · 
+  <a href="https://www.facebook.com/jayarsaturnodeguzman1">Facebook</a> · 
+  <a href="mailto:jrsaturno66@gmail.com">Email</a>
+</p>
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Infinite Live Limitless** | Health & wellness branding platform featuring a lead capture system and admin dashboard. | `Laravel` `MySQL` `Bootstrap 5` |
-| **CED E-Services** | College of Education E-Services. | `Laravel` `React Inertia` `Tailwind CSS` `MySQL` |
-| **1902 POS** | Custom Point-of-Sale (POS) and inventory management system for local retail. | `PHP` `MySQL` `CSS` `Bootstrap` |
+<p align="center"><sub>Jay-ar Saturno De Guzman · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🛠️ Tech Stack & Design Arsenal
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,github,figma,canva&theme=dark" alt="Jay-ar's Tech Stack" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebiscoooooo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rebiscoooooo/rebiscoooooo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rebiscoooooo/rebiscoooooo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rebiscoooooo/rebiscoooooo/output/github-snake.svg" />
+</picture>
