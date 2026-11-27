@@ -15,22 +15,7 @@
   <a href="mailto:jrsaturno66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<!-- GitSkins Cosmic Galaxy Banner -->
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo galaxy visual" width="100%" />
-</p>
-
-<p align="center">🌌 <b>7</b> public repositories · <b>134</b> contributions · longest streak of <b>6</b> days · <b>3</b> followers 🌌</p>
-
-</div>
-
 ---
-
-<h2 align="left">Brightest Stars</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo projects visual" width="100%" />
-</p>
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
@@ -44,10 +29,6 @@
 
 <h2 align="left">Elements & Arsenal</h2>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo stack visual" width="100%" />
-</p>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,php,laravel,mysql,git,github,vscode,figma,canva&theme=dark" alt="Jay-ar's Tech Stack" />
@@ -58,17 +39,11 @@
 
 <h2 align="left">Transmission & Analytics</h2>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=rebiscoooooo&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175343549%3Fv%3D4" alt="rebiscoooooo social visual" width="100%" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebiscoooooo&theme=tokyonight&hide_border=true&background=020617&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=A5B4FC&dates=A5B4FC" alt="GitHub Streak" width="55%" />
 </div>
 
 <br/>
-
-<p align="center"><sub>Jay-ar Saturno De Guzman · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 ---
 
